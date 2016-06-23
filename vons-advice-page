@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+
+	<!-- replace Skillcrush with your name here -->
+	<title>Von's Advice For Learning Ruby on Rails</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="Von's-advice">
+	<header>
+		<a href="../index.html">Back to Main Page</a>
+		<h1>Hi, I don't like to give advice, but since you asked for it, here it is...</h1>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>Don't KILL your laptop!</h4>
+			<p>Don't kill your laptop! Don't kill your laptop! Don't kill your laptop!</p>
+
+			<p>Ask FOR HELP! ASK YOUR TEACHER! ASK YOUR PEERS. ASK YOUR TUTOR. ASK EVERYWHERE! Ask the universe by posting an ad up for a tutor if you need 1on1 help. Ask people you know that already knows Ruby for help debugging your scripts to see what you're doing wrong and learn from those mistakes.</p>
+
+			<h4>Celebrate every SUCCESSFUL SCRIPT!</h4>
+			<p>Each project is a challenge and when you get it to run, no matter how big or small the function, you did it! Begin with easy scripts and small taks that run and build on that as you become more skilled. BIG or small, celebrate every successful script and thank those who helped you if you had collaboration.</p>
+
+			<p>BE OK WITH BEING A CONSTANT STUDENT. In programming, you will always need to gogole and learn all the time. You will learn from others and just everywhere to find the missing elements to your code that will get it to run and solve the problem it was designed by you to address. Some people can't stand school or they are sooooo over being schooled. That's why there are so few programmers to fill the growing demand for programmers. Not everyone wants to live in perpetual school and well...that's a programmer's life. Be ZEN about it. </p>
+
+			<p>BE ZEN! Find ways to detox and destress yourself. Coding is frustrating at times and don't get upset if it doesn't work. At different times, a programmer is a guru, a master, a student, and most importantly, ZEN...FULL. </p>
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+		<p>&copy; Copyright Von 2016.
+	</footer>
+</body>
+</html>
